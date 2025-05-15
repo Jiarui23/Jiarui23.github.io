@@ -2,15 +2,127 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Homepage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, I am Lim Jia Rui, a first-year (Third Trimester) student in the Applied Artificial Intelligence program at the Singapore Institute of Technology (SIT).\n\n\n\nProgram: Applied Artificial Intelligence\n\nInstitution: Singapore Institute of Technology (SIT)\n\nYear: First Year, Third Trimester\n\n\n\n\n\nProgramming: Python, C, Java\n\nAI & ML: Machine Learning\nData Tools: TensorFlow, PyTorch, scikit-learn, Pandas\n\n\n\n\n\nHobbies: Reading tech blogs, Badminton, Music\n\n\n\n\n\nFinal Year Project (FYP)\n\nHobbies\n\nTravel Experience"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "ESG Rating Changes and Firm Valuation"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "One_More_Page",
+    "section": "",
+    "text": "As a student, I have several hobbies I enjoy doing, and one of them is the sport, Badminton. Below I’ll explain why I love playing badminton and what it means to me.\n\n\n\nBadminton is a high-intensity racket sport played on a rectangular court divided by a net. A shuttlecock is hit back and forth, and points are scored when the shuttlecock lands in the opponent’s court.\n\nCourt & Equipment: Singles or doubles format; lightweight rackets; feather or synthetic shuttlecocks.\nScoring System: Best of three games to 21 points (rally scoring).\nSkills Required: Speed, agility, precision, and strategic shot placement.\n\n\n\n\nBelow is a table summarizing the main reasons I love playing badminton:\n\n\n\n\n\nReason\nDescription\n\n\n\n\nPhysical Fitness\nEnhances stamina, strength, and coordination\n\n\nSocial Interaction\nBuilds friendships and teamwork\n\n\nMental Agility\nSharpens focus and quick decision-making\n\n\nStress Relief\nProvides a healthy outlet for stress\n\n\nCompetition\nDelivers excitement and a sense of achievement\n\n\n\n\n\nPlaying badminton not only keeps me physically active but also offers mental stimulation and social connectivity. The fast-paced rallies, strategic play, and supportive community make it a perfect balance between exercise and enjoyment."
+  },
+  {
+    "objectID": "Hobbies.html#summary",
+    "href": "Hobbies.html#summary",
+    "title": "One_More_Page",
+    "section": "",
+    "text": "As a student, I have several hobbies I enjoy doing, and one of them is the sport, Badminton. Below I’ll explain why I love playing badminton and what it means to me."
+  },
+  {
+    "objectID": "Hobbies.html#about-badminton",
+    "href": "Hobbies.html#about-badminton",
+    "title": "One_More_Page",
+    "section": "",
+    "text": "Badminton is a high-intensity racket sport played on a rectangular court divided by a net. A shuttlecock is hit back and forth, and points are scored when the shuttlecock lands in the opponent’s court.\n\nCourt & Equipment: Singles or doubles format; lightweight rackets; feather or synthetic shuttlecocks.\nScoring System: Best of three games to 21 points (rally scoring).\nSkills Required: Speed, agility, precision, and strategic shot placement."
+  },
+  {
+    "objectID": "Hobbies.html#why-i-enjoy-badminton",
+    "href": "Hobbies.html#why-i-enjoy-badminton",
+    "title": "One_More_Page",
+    "section": "",
+    "text": "Below is a table summarizing the main reasons I love playing badminton:\n\n\n\n\n\nReason\nDescription\n\n\n\n\nPhysical Fitness\nEnhances stamina, strength, and coordination\n\n\nSocial Interaction\nBuilds friendships and teamwork\n\n\nMental Agility\nSharpens focus and quick decision-making\n\n\nStress Relief\nProvides a healthy outlet for stress\n\n\nCompetition\nDelivers excitement and a sense of achievement\n\n\n\n\n\nPlaying badminton not only keeps me physically active but also offers mental stimulation and social connectivity. The fast-paced rallies, strategic play, and supportive community make it a perfect balance between exercise and enjoyment."
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "About",
+    "section": "Summary",
+    "text": "Summary\nThe project investigates how Environmental, Social, and Governance (ESG) rating changes influence firm valuation—measured by market-to-book ratios whether these effects differ across major industry sectors."
+  },
+  {
+    "objectID": "Hobby.html",
+    "href": "Hobby.html",
+    "title": "Hobby",
+    "section": "",
+    "text": "As a student, I have several hobbies I enjoy doing, and one of them is the sport, Badminton. Below I’ll explain why I love playing badminton and what it means to me.\n\n\n\nBadminton is a high-intensity racket sport played on a rectangular court divided by a net. A shuttlecock is hit back and forth, and points are scored when the shuttlecock lands in the opponent’s court.\n\nCourt & Equipment: Singles or doubles format; lightweight rackets; feather or synthetic shuttlecocks.\nScoring System: Best of three games to 21 points (rally scoring).\nSkills Required: Speed, agility, precision, and strategic shot placement.\n\n\n\n\nBelow is a table summarizing the main reasons I love playing badminton:\n\n\n\n\n\nReason\nDescription\n\n\n\n\nPhysical Fitness\nEnhances stamina, strength, and coordination\n\n\nSocial Interaction\nBuilds friendships and teamwork\n\n\nMental Agility\nSharpens focus and quick decision-making\n\n\nStress Relief\nProvides a healthy outlet for stress\n\n\nCompetition\nDelivers excitement and a sense of achievement\n\n\n\n\n\nPlaying badminton not only keeps me physically active but also offers mental stimulation and social connectivity. The fast-paced rallies, strategic play, and supportive community make it a perfect balance between exercise and enjoyment."
+  },
+  {
+    "objectID": "Hobby.html#summary",
+    "href": "Hobby.html#summary",
+    "title": "Hobby",
+    "section": "",
+    "text": "As a student, I have several hobbies I enjoy doing, and one of them is the sport, Badminton. Below I’ll explain why I love playing badminton and what it means to me."
+  },
+  {
+    "objectID": "Hobby.html#about-badminton",
+    "href": "Hobby.html#about-badminton",
+    "title": "Hobby",
+    "section": "",
+    "text": "Badminton is a high-intensity racket sport played on a rectangular court divided by a net. A shuttlecock is hit back and forth, and points are scored when the shuttlecock lands in the opponent’s court.\n\nCourt & Equipment: Singles or doubles format; lightweight rackets; feather or synthetic shuttlecocks.\nScoring System: Best of three games to 21 points (rally scoring).\nSkills Required: Speed, agility, precision, and strategic shot placement."
+  },
+  {
+    "objectID": "Hobby.html#why-i-enjoy-badminton",
+    "href": "Hobby.html#why-i-enjoy-badminton",
+    "title": "Hobby",
+    "section": "",
+    "text": "Below is a table summarizing the main reasons I love playing badminton:\n\n\n\n\n\nReason\nDescription\n\n\n\n\nPhysical Fitness\nEnhances stamina, strength, and coordination\n\n\nSocial Interaction\nBuilds friendships and teamwork\n\n\nMental Agility\nSharpens focus and quick decision-making\n\n\nStress Relief\nProvides a healthy outlet for stress\n\n\nCompetition\nDelivers excitement and a sense of achievement\n\n\n\n\n\nPlaying badminton not only keeps me physically active but also offers mental stimulation and social connectivity. The fast-paced rallies, strategic play, and supportive community make it a perfect balance between exercise and enjoyment."
+  },
+  {
+    "objectID": "about.html#final-year-project",
+    "href": "about.html#final-year-project",
+    "title": "About",
+    "section": "",
+    "text": "ESG Rating Changes and Firm Valuation"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Homepage",
+    "section": "",
+    "text": "Program: Applied Artificial Intelligence\n\nInstitution: Singapore Institute of Technology (SIT)\n\nYear: First Year, Third Trimester"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Homepage",
+    "section": "",
+    "text": "Programming: Python, C, Java\n\nAI & ML: Machine Learning\nData Tools: TensorFlow, PyTorch, scikit-learn, Pandas"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Homepage",
+    "section": "",
+    "text": "Hobbies: Reading tech blogs, Badminton, Music"
+  },
+  {
+    "objectID": "index.html#navigation",
+    "href": "index.html#navigation",
+    "title": "Homepage",
+    "section": "",
+    "text": "Final Year Project (FYP)\n\nHobbies\n\nTravel Experience"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Travel",
+    "section": "",
+    "text": "Last year in April, I embarked on a 10-day journey through Japan, exploring vibrant cities, serene temples, and breathtaking natural landscapes. Below is the showcase of some location during my trip."
+  },
+  {
+    "objectID": "travel.html#highlights-reflections",
+    "href": "travel.html#highlights-reflections",
+    "title": "Travel",
+    "section": "Highlights & Reflections",
+    "text": "Highlights & Reflections\n\nShibuya Crossing: Immersive urban spectacle, best viewed from the Starbucks overlooking the intersection.  \nFushimi Inari Shrine: Endless torii gates create a mystical pathway; sunrise visit recommended for quieter experience.   \nArashiyama Bamboo Grove: The towering bamboo and ambient sounds offer a truly meditative walk.  \nMount Fuji View: Clear skies granted an unforgettable view from Lake Ashi; a cruise on the lake enhanced the experience.  \nDotonbori Canal: The neon-lit canal and street food stalls capture the lively spirit of Osaka.  \n\nThis travel review captures both the factual itinerary and my personal impressions, formatted for easy integration into RStudio using R Markdown."
   }
 ]

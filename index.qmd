@@ -1,11 +1,30 @@
 ---
-title: "temp_website"
+title: "Homepage"
 ---
+# Welcome to My Personal Page
 
-This is a Quarto website.
+Hello, I am **Lim Jia Rui**, a first-year (Third Trimester) student in the **Applied Artificial Intelligence** program at the **Singapore Institute of Technology (SIT)**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+- **Program:** Applied Artificial Intelligence  
+- **Institution:** Singapore Institute of Technology (SIT)  
+- **Year:** First Year, Third Trimester
+
+## Skills
+
+- **Programming:** Python, C, Java  
+- **AI & ML:** Machine Learning 
+- **Data Tools:** TensorFlow, PyTorch, scikit-learn, Pandas
+
+## Interests
+
+- **Hobbies:** Reading tech blogs, Badminton, Music
+
+## Navigation
+
+- [Final Year Project (FYP)](about.html)  
+- [Hobbies](Hobby.html)  
+- [Travel Experience](travel.html)
+
+![](My_Face.jpg)

@@ -1,9 +1,19 @@
 ---
 title: "About"
 ---
+## *Final Year Project*
+***ESG Rating Changes and Firm Valuation***
 
-About this site
+# Summary
 
-```{r}
-1 + 1
-```
+The project investigates how Environmental, Social, and Governance (ESG) rating changes influence firm valuation—measured by market-to-book ratios whether these effects differ across major industry sectors.
+
+# The Problem
+
+Investor demand for sustainable practices has elevated ESG metrics to key inputs in equity valuation. Yet, the magnitude and direction of the ESG–valuation link remain ambiguous, particularly when viewed through an industry lens.
+
+# Research Objectives
+
+- **Primary Objective:** Quantify the relationship between annual ESG rating changes and firm valuation.
+- **Secondary Objective:** Compare the ESG–valuation effect across Energy, Technology, Consumer Staples, and Financial sectors.
+

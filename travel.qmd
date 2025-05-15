@@ -1,0 +1,44 @@
+---
+title: "Travel"
+format: html
+---
+# Summary
+
+Last year in April, I embarked on a 10-day journey through Japan, exploring vibrant cities, serene temples, and breathtaking natural landscapes. Below is the showcase of some location during my trip.
+
+# Heritages
+```{r wonder-review, echo=FALSE}
+library(knitr)
+wonders <- data.frame(
+  Wonder = c(
+    "Shibuya Crossing (Tokyo)",
+    "Fushimi Inari Shrine (Kyoto)",
+    "Arashiyama Bamboo Grove (Kyoto)",
+    "Mount Fuji View (Hakone)",
+    "Dotonbori Canal (Osaka)"
+  ),
+  Rating = c(3.5, 5, 5, 5, 4)
+)
+kable(wonders, caption = "Review of Top 5 Wonders in Japan")
+```
+
+## Highlights & Reflections
+
+- **Shibuya Crossing:** Immersive urban spectacle, best viewed from the Starbucks overlooking the intersection.
+![](Shibuya_Crossing.jpg)
+<br>
+- **Fushimi Inari Shrine:** Endless torii gates create a mystical pathway; sunrise visit recommended for quieter experience.
+<br>
+![](Fushimi.jpeg)
+<br>
+- **Arashiyama Bamboo Grove:** The towering bamboo and ambient sounds offer a truly meditative walk.
+![](Bamboo.jpg)
+<br>
+- **Mount Fuji View:** Clear skies granted an unforgettable view from Lake Ashi; a cruise on the lake enhanced the experience.
+![](Mount_Fuji.jpg) 
+<br>
+- **Dotonbori Canal:** The neon-lit canal and street food stalls capture the lively spirit of Osaka.
+![](Dondobori.jpg)
+<br>
+
+This travel review captures both the factual itinerary and my personal impressions, formatted for easy integration into RStudio using R Markdown.

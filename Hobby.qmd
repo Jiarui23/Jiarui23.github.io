@@ -1,0 +1,42 @@
+---
+title: "Hobby"
+format: html
+---
+
+# *My Hobby*
+
+## *Summary*
+
+As a student, I have several hobbies I enjoy doing, and one of them is the sport, Badminton. Below I'll explain why I love playing badminton and what it means to me.
+
+## *About Badminton*
+
+Badminton is a high-intensity racket sport played on a rectangular court divided by a net. A shuttlecock is hit back and forth, and points are scored when the shuttlecock lands in the opponent’s court.
+
+- **Court & Equipment:** Singles or doubles format; lightweight rackets; feather or synthetic shuttlecocks.
+- **Scoring System:** Best of three games to 21 points (rally scoring).
+- **Skills Required:** Speed, agility, precision, and strategic shot placement.
+
+## *Why I Enjoy Badminton*
+
+Below is a table summarizing the main reasons I love playing badminton:
+
+```{r enjoyment, echo=FALSE}
+library(knitr)
+reasons <- data.frame(
+  Reason = c("Physical Fitness", "Social Interaction", "Mental Agility", "Stress Relief", "Competition"),
+  Description = c(
+    "Enhances stamina, strength, and coordination",
+    "Builds friendships and teamwork",
+    "Sharpens focus and quick decision-making",
+    "Provides a healthy outlet for stress",
+    "Delivers excitement and a sense of achievement"
+  )
+)
+kable(reasons)
+```
+
+Playing badminton not only keeps me physically active but also offers mental stimulation and social connectivity. The fast-paced rallies, strategic play, and supportive community make it a perfect balance between exercise and enjoyment.
+<br>
+<br>
+![](badminton.jpeg)
