@@ -25,20 +25,20 @@ kable(wonders, caption = "Review of Top 5 Wonders in Japan")
 ## Highlights & Reflections
 
 - **Shibuya Crossing:** Immersive urban spectacle, best viewed from the Starbucks overlooking the intersection.
-![](Shibuya_Crossing.jpg)
+![Image of Shibuya Crossing](Shibuya_Crossing.jpg)
 <br>
 - **Fushimi Inari Shrine:** Endless torii gates create a mystical pathway; sunrise visit recommended for quieter experience.
 <br>
-![](Fushimi.jpeg)
+![Image of Fushimi Inari Shrine](Fushimi.jpeg)
 <br>
 - **Arashiyama Bamboo Grove:** The towering bamboo and ambient sounds offer a truly meditative walk.
-![](Bamboo.jpg)
+![Image of Arashiyama Bamboo Grove](Bamboo.jpg)
 <br>
 - **Mount Fuji View:** Clear skies granted an unforgettable view from Lake Ashi; a cruise on the lake enhanced the experience.
-![](Mount_Fuji.jpg) 
+![Image of Mount Fuji](Mount_Fuji.jpg) 
 <br>
 - **Dotonbori Canal:** The neon-lit canal and street food stalls capture the lively spirit of Osaka.
-![](Dondobori.jpg)
+![Image of Dotonbori Canal](Dondobori.jpg)
 <br>
 
 This travel review captures both the factual itinerary and my personal impressions, formatted for easy integration into RStudio using R Markdown.

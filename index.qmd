@@ -27,4 +27,4 @@ Hello, I am **Lim Jia Rui**, a first-year (Third Trimester) student in the **App
 - [Hobbies](Hobby.html)  
 - [Travel Experience](travel.html)
 
-![](My_Face.jpg)
+![Picture of Myself](My_Face.jpg)

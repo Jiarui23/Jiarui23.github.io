@@ -39,4 +39,4 @@ kable(reasons)
 Playing badminton not only keeps me physically active but also offers mental stimulation and social connectivity. The fast-paced rallies, strategic play, and supportive community make it a perfect balance between exercise and enjoyment.
 <br>
 <br>
-![](badminton.jpeg)
+![Image of Racket](badminton.jpeg)
