@@ -6,7 +6,7 @@ format: html
 ## GenAI Tool Used
 
 - **Tool:** OpenAI ChatGPT (GPT-4 model)  
-
+  
 - **Reason for Choice:** ChatGPT is very versatile and can assist me with a wide range of tasks, from generating text to providing coding help. I chose it for its ability to understand context and provide relevant suggestions.It helps a lot in my studies when i do not understand a topic. I can ask it to explain the topic in a simple way and it will do that. It also helps me with my assignments when i do not understand the question. This made my studies a lot more meaningful and comprehensive.
 <br>
 
