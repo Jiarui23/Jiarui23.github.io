@@ -1,0 +1,38 @@
+---
+title: "Reflection"
+format: html
+---
+
+## GenAI Tool Used
+
+- **Tool:** OpenAI ChatGPT (GPT-4 model)  
+
+- **Reason for Choice:** ChatGPT is very versatile and can assist me with a wide range of tasks, from generating text to providing coding help. I chose it for its ability to understand context and provide relevant suggestions.It helps a lot in my studies when i do not understand a topic. I can ask it to explain the topic in a simple way and it will do that. It also helps me with my assignments when i do not understand the question. This made my studies a lot more meaningful and comprehensive.
+<br>
+
+## How GenAI Helped in Completing the Assessment
+
+**Rapid Template Generation:**  
+   I asked ChatGPT for ideas mainly, and some help on the codes in Rstudio.
+
+
+## Benefits of the Tool
+
+- **Efficiency Gains:** Tasks that once took hours—like writing can be reduced minutes. It can also give suggestions based on the context which saves a lot of time.
+
+## Challenges Encountered
+
+- **Occasional Hallucinations:** On rare occasions, ChatGPT suggested outdated CSS properties or misremembered function arguments.
+- **Context Drift:** In longer conversations, I had to restate details (e.g., site theme settings) to ensure consistency across new prompts.  
+- **Over-Reliance Risk:** Relying too heavily on AI-generated code without testing can introduce subtle errors; I learned to always run and debug snippets immediately.
+
+## Lessons Learned & Best Practices
+
+- **Verify and Test:** Always validate AI-provided code within RStudio to catch syntax or version mismatches.  
+- **Detailed Prompts:** The more context and examples I share, the more accurate and relevant the AI’s responses become.  
+- **Blend AI with Expertise:** Use GenAI as a first-draft generator, then refine and adapt outputs based on domain knowledge.
+
+
+## Conclusion
+
+Overall, integrating GenAI into my workflow has been transformative—providing both creativity boosts and practical coding assistance. While human oversight and critical thinking remain essential to catch inaccuracies and tailor outputs, GenAI stands as a powerful collaborator for both academic projects and future professional tasks. However, it comes with issues which I have to watch out for. I have to be careful when using it and not rely on it too much, understanding the topic and the code it generates. I also have to make sure that I do not use it for everything, as this will make me lazy and not learn anything.

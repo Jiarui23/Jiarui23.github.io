@@ -13,6 +13,7 @@ website:
       - about.qmd
       - Hobby.qmd
       - travel.qmd
+      - Reflection.qmd
 
 format:
   html:
