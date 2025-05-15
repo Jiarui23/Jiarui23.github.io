@@ -8,12 +8,16 @@ website:
   navbar:
     logo: logo.png
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - Hobby.qmd
-      - travel.qmd
-      - Reflection.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Hobbies"
+        href: Hobby.qmd
+      - text: "Travel"
+        href: travel.qmd
+      - text: "Reflection"
+        href: Reflection.qmd
 
 format:
   html:
